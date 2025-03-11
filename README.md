@@ -3,7 +3,7 @@
 ## 🚀 Overview
 This is an **AI-Powered Stock Price Prediction Application**. It allows users to select any stock ticker, train an AI model, and predict future stock prices using historical data and technical indicators.
 
-### Experience the power of AI in stock prediction! Click below to access the live app: 👉 [NeuroSense](https://neurosense.streamlit.app/) 👈
+### Experience the power of AI in stock prediction : [NeuroSense](https://neurosense.streamlit.app/)
 
 ## 🎯 Features
 ✅ **Enter Any Stock Ticker** – Fetch real-time stock data from Yahoo Finance.
